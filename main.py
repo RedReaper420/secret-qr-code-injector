@@ -81,7 +81,7 @@ def qr_gen():
     
     print()
 
-def inspect():
+def transform():
     input("Prepare the injected.png and press Enter.")
     
     with Image.open("injected.png") as input_img:
@@ -102,9 +102,9 @@ def inspect():
             img_array[row, col][(channel + 2) % 3] = 0
     
     output_img = Image.fromarray(img_array)
-    output_img.save("inspected.png")
+    output_img.save("transformed.png")
     
-    print("Done (inspected.png). Enter anything to show the image, enther nothing to skip.")
+    print("Done (transformed.png). Enter anything to show the image, enther nothing to skip.")
     show_img = input()
     if show_img != "":
         output_img.show()
@@ -127,7 +127,7 @@ def main():
     elif command == "2":
         qr_gen()
     elif command == "3":
-        inspect()
+        transform()
     
     return False
 
