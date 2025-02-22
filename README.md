@@ -9,8 +9,8 @@
 ![Original size  Dancer](https://github.com/user-attachments/assets/e223972a-6789-40b1-b5bc-0d5a34d6a2c4)
 ![inspected](https://github.com/user-attachments/assets/c2857985-02a3-4d10-9160-00fe422cac3e)
 
-<img src="https://github.com/user-attachments/assets/ce1b2704-42c8-48f5-82d9-3af8826a038b" width-max="45%" height="auto" />
-<img src="https://github.com/user-attachments/assets/eaae93bd-dc0d-43e2-971b-e0d18d9b95b6" width-max="45%" height="auto" />
+<img src="https://github.com/user-attachments/assets/ce1b2704-42c8-48f5-82d9-3af8826a038b" width="45%" height="auto" />
+<img src="https://github.com/user-attachments/assets/eaae93bd-dc0d-43e2-971b-e0d18d9b95b6" width="45%" height="auto" />
 
 > Source: [Newgrounds](https://www.newgrounds.com/art/view/redreaperripper/eateot-5-stage-humanized)
 
