@@ -115,7 +115,7 @@ def main():
     print("Enter the number:")
     print("1 - Inject QR code into image")
     print("2 - Generate QR code from text file")
-    print("3 - Trasform image for inspection")
+    print("3 - Transform image for inspection")
     print("0 - Exit")
     command = input()
     print()
