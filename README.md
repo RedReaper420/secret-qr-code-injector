@@ -23,4 +23,4 @@
 ## Usage
 Start the `main.py` and follow the hints in the console.
 
-I'm unisng this script for injecting practically invisible QR codes into my artwork. They serve as a substitute for ordinary visible author signature, since I don't want to distract viewer from the artwork.
+I'm using this script for injecting practically invisible QR codes into my artwork. They serve as a substitute for ordinary visible author signature, since I don't want to distract viewer from the artwork.
